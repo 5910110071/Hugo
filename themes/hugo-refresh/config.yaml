@@ -68,7 +68,7 @@ params:
   # homepage options
   homepage:
     # option to specify the title in the homepage
-    title: ชานน พรศิริวงศ์
+    title: ชานน
     # option to specify the subtitle in the homepage
     subtitle: ยินดีต้อนรับเข้าสู่เว็บไซต์ของฉัน
     # option to specify image in the homepage
