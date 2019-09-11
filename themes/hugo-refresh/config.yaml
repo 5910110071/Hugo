@@ -75,6 +75,7 @@ params:
     image: "/images/avataaars.png" # worker.svg 
     # option to specify the width of the image in the homepage
     imageWidth: 500px
+    font-color : red
 
   # footer options
   footer:
